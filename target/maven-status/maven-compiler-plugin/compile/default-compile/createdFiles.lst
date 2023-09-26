@@ -1,0 +1,7 @@
+com/khoffylabs/repositories/ProductRepository.class
+com/khoffylabs/web/ProductController.class
+com/khoffylabs/StreamLambdaHandler.class
+com/khoffylabs/Application.class
+com/khoffylabs/entities/Product$ProductBuilder.class
+com/khoffylabs/controller/PingController.class
+com/khoffylabs/entities/Product.class

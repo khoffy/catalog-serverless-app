@@ -1,0 +1,6 @@
+/home/khoffy/VsCode/Maven/catalog-serverless-app/src/main/java/com/khoffylabs/entities/Product.java
+/home/khoffy/VsCode/Maven/catalog-serverless-app/src/main/java/com/khoffylabs/Application.java
+/home/khoffy/VsCode/Maven/catalog-serverless-app/src/main/java/com/khoffylabs/repositories/ProductRepository.java
+/home/khoffy/VsCode/Maven/catalog-serverless-app/src/main/java/com/khoffylabs/controller/PingController.java
+/home/khoffy/VsCode/Maven/catalog-serverless-app/src/main/java/com/khoffylabs/web/ProductController.java
+/home/khoffy/VsCode/Maven/catalog-serverless-app/src/main/java/com/khoffylabs/StreamLambdaHandler.java
